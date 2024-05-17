@@ -23,7 +23,7 @@ The dataset consists of 19 columns and 3900 rows without missing values. It cont
 -	**Payment Method** - Customer's most preferred payment method
 -	**Frequency of Purchases** - Frequency at which the customer makes purchases (e.g., Weekly, Fortnightly, Monthly)
 
-*To make it more convenient for querying, I have changed column names to lowercase and replaced spaces with underscores. For example, the column 'Customer ID' -> 'customer_id'.
+*To make it more convenient for querying, I have changed column names to lowercase and replaced spaces with underscores. For example, the column 'Customer ID' to 'customer_id'.
 
 # Querying to answer business questions
 
