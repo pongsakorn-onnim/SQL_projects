@@ -149,7 +149,7 @@ FROM shopping_trends
 	- **Reward loyal customers:** The analysis shows a decrease in purchase frequency for repeat customers. **Implement loyalty programs** or targeted promotions to incentivize repeat purchases.
 
 - **Location Strategies**
-	- **Optimize store placement:** While Montana has the most customers, Alaska has the highest average purchase amount. Analyze if there are opportunities to expand stores in **high-spending locations** or tailor marketing efforts to these areas.
+	- **Optimize store placement:** While Montana has the most customers, Alaska has the highest average purchase amount. Analyze if there are opportunities to **expand stores in high-spending locations** or tailor marketing efforts to these areas.
 
  - **Payment Processing**
  	- **Offer a variety of payment options:** The analysis highlights popular payment methods like PayPal and Credit Card. Ensure these options are available and consider incorporating additional popular methods to cater to customer preferences.
