@@ -137,3 +137,19 @@ FROM shopping_trends
 - **Purchase Frequency Decline**: Customers who made more than 20 purchases last year averaged 17 this year.
 - **Top Locations by Purchase Amount**: Alaska, Pennsylvania, Arizona, West Virginia, and Nevada.
 - **Seasonal Purchase Distribution**: The percentage of total items purchased is similar across all seasons, ranking from clothing, accessories, footwear, to outerwear.
+- 
+
+# Recommendations
+- **Product Recommendation**
+	- **Focus on clothing**: **Prioritize the clothing category** since it has the highest total sales whether by expanding the clothing selection, running promotions, or improving the shopping experience for this category.
+	- **Seasonal marketing**: While sales are consistent across seasons, **consider targeted promotions on specific categories during peak seasons**. For example, highlight outerwear during winter and swimwear during summer.
+
+- **Customer Acquisition and Retention**
+	- **Target high-value customers**: Males tend to spend more, so **consider targeted marketing campaigns to acquire more male customers**. However, don't neglect female customers, investigate why they might be spending less and see if there are opportunities to improve their shopping experience.
+	- **Reward loyal customers**: The analysis shows a decrease in purchase frequency for repeat customers. **Implement loyalty programs** or targeted promotions to incentivize repeat purchases.
+
+- **Location Strategies**
+	- **Optimize store placement**: While Montana has the most customers, Alaska has the highest average purchase amount. Analyze if there are opportunities to expand stores in **high-spending locations** or tailor marketing efforts to these areas.
+
+ - **Payment Processing**
+ 	- **Offer a variety of payment options**: The analysis highlights popular payment methods like PayPal and Credit Card. Ensure these options are available and consider incorporating additional popular methods to cater to customer preferences.
